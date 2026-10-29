@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<rect width="900" height="620" fill="#f7f7f7"/>
+<rect x="250" y="25" width="400" height="570" rx="28" fill="white" stroke="#222" stroke-width="3"/>
+<rect x="250" y="25" width="400" height="70" rx="28" fill="#eeeeee"/>
+<rect x="250" y="67" width="400" height="28" fill="#eeeeee"/>
+<text x="450" y="70" text-anchor="middle" font-family="Arial" font-size="27" font-weight="bold">Experiment 5</text>
+<text x="450" y="145" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold">Student Portal</text>
+<text x="450" y="205" text-anchor="middle" font-family="Arial" font-size="20">Counter Value</text>
+<text x="450" y="275" text-anchor="middle" font-family="Arial" font-size="62" font-weight="bold">3</text>
+<rect x="355" y="315" width="190" height="48" rx="10" fill="#e8e8e8" stroke="#555"/>
+<text x="450" y="346" text-anchor="middle" font-family="Arial" font-size="18">Increase</text>
+<rect x="355" y="380" width="190" height="48" rx="10" fill="#e8e8e8" stroke="#555"/>
+<text x="450" y="411" text-anchor="middle" font-family="Arial" font-size="18">Decrease</text>
+<rect x="355" y="445" width="190" height="48" rx="10" fill="#e8e8e8" stroke="#555"/>
+<text x="450" y="476" text-anchor="middle" font-family="Arial" font-size="18">Reset</text>
+<text x="450" y="535" text-anchor="middle" font-family="Arial" font-size="15">Provider • ChangeNotifier • notifyListeners()</text>
+<text x="450" y="560" text-anchor="middle" font-family="Arial" font-size="14">Stateful/Stateless + setState concept</text>
+</svg>
