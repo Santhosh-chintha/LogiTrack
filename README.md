@@ -29,7 +29,8 @@ Uses **MediaQuery** and screen width breakpoints (`600px` tablet, `900px` deskto
 
 **Output:**
 
-![Experiment 3 Output](outputs/exp3_output.svg)
+<img width="1536" height="1024" alt="LogiTrack Shipment Creation Screen" src="https://github.com/user-attachments/assets/e9dc9262-3c60-45b9-93e8-abcd2d691699" />
+
 
 ### Experiment 4 — Navigation and Named Routes
 Uses **Navigator.pushNamed()**, centralized route constants, and clean screen separation (`/`, `/details`, `/fleet`) for multi-screen logistics navigation.
