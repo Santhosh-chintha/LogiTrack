@@ -45,7 +45,8 @@ Demonstrates **StatelessWidget**, **StatefulWidget**, **setState()**, and **Prov
 
 **Output:**
 
-![Experiment 5 Output](outputs/exp5_output.svg)
+<img width="1536" height="1024" alt="LogiTrack State Management Storyboard" src="https://github.com/user-attachments/assets/9ac692ce-05fa-4584-b3f4-bb099aa18f34" />
+
 
 ### Experiment 6 — Custom Widgets and Themes
 Creates reusable custom widgets for logistics elements (`ShipmentHeader`, `ShipmentInfoCard`, `DispatchButton`) and applies styling through Material 3 **ThemeData**, custom text styles, and card themes.
