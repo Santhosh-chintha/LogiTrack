@@ -78,7 +78,8 @@ Fetches external shipment and consignment records from a public **REST API** usi
 
 **Output:**
 
-![Experiment 9 Output](outputs/exp9_output.svg)
+<img width="1536" height="1024" alt="LogiTrack Shipment Reports Dashboard" src="https://github.com/user-attachments/assets/c67a351b-68ec-466d-8c45-e47531fdedc3" />
+
 
 **Dependency:** Run `flutter pub add http` in a Flutter project before running this experiment.
 
