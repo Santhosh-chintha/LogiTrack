@@ -88,7 +88,8 @@ Writes widget tests for reusable shipment UI components and package registration
 
 **Output:**
 
-![Experiment 10 Output](outputs/exp10_output.svg)
+<img width="1536" height="1024" alt="LogiTrack UI Unit Test Dashboard" src="https://github.com/user-attachments/assets/cbb3ac01-6392-427a-addf-6cc2c42a78fa" />
+
 
 **Run the example:** `flutter run -t experiments/10_testing_debugging.dart` (or open the file in your Flutter project and run it as the entry point).
 
