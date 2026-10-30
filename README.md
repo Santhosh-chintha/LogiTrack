@@ -61,7 +61,9 @@ Designs a shipment booking registration form with multiple input fields and impl
 
 **Output:**
 
-![Experiment 7 Output](outputs/exp7_output.svg)
+<img width="1536" height="1024" alt="LogiTrack Shipment Creation Screen" src="https://github.com/user-attachments/assets/54e4da59-aece-405c-a987-65ae15597dc8" />
+
+
 
 ### Experiment 8 — Animations
 Uses Flutter's animation framework with **AnimationController**, **CurvedAnimation**, **FadeTransition**, and **SlideTransition** to smoothly animate shipment status updates with a replay action.
