@@ -13,7 +13,8 @@ Variables, data types, arithmetic operations, delivery charge calculations, stri
 
 **Output:**
 
-![Experiment 1 Output](outputs/exp1_output.svg)
+<img width="1536" height="1024" alt="exp1" src="https://github.com/user-attachments/assets/9ecf54dc-33f2-4eae-8b7f-14ece881de9e" />
+
 
 ### Experiment 2 — Flutter Widgets and Layouts
 Uses Flutter widgets with **Row**, **Column** and **Stack** to construct a logistics shipment overview card with delivery status indicators and horizontal metric statistics.
