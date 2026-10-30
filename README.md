@@ -53,7 +53,8 @@ Creates reusable custom widgets for logistics elements (`ShipmentHeader`, `Shipm
 
 **Output:**
 
-![Experiment 6 Output](outputs/exp6_output.svg)
+<img width="1536" height="1024" alt="LogiTrack Theme Settings Dashboard" src="https://github.com/user-attachments/assets/32617ea6-c3e3-4d73-8526-3d6d3b8117bd" />
+
 
 ### Experiment 7 — Forms, Validation and Error Handling
 Designs a shipment booking registration form with multiple input fields and implements form validation, field-level error messages, and submission feedback using **Form**, **GlobalKey<FormState>**, **TextFormField**, and **SnackBar**.
