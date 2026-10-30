@@ -21,7 +21,8 @@ Uses Flutter widgets with **Row**, **Column** and **Stack** to construct a logis
 
 **Output:**
 
-![Experiment 2 Output](outputs/exp2_output.svg)
+<img width="1672" height="941" alt="LogiTrack Logistics Dashboard" src="https://github.com/user-attachments/assets/3021b082-cf90-4f12-8965-15e82df792c3" />
+
 
 ### Experiment 3 — Responsive UI
 Uses **MediaQuery** and screen width breakpoints (`600px` tablet, `900px` desktop) to adapt the shipment dispatch layout between a multi-column desktop view and a scrollable mobile layout.
