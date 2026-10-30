@@ -37,7 +37,8 @@ Uses **Navigator.pushNamed()**, centralized route constants, and clean screen se
 
 **Output:**
 
-![Experiment 4 Output](outputs/exp4_output.svg)
+<img width="1536" height="1024" alt="LogiTrack Navigation Dashboard Screens" src="https://github.com/user-attachments/assets/f9e02979-10de-4b2f-bb16-121af0d2f3e5" />
+
 
 ### Experiment 5 — Stateful & Stateless Widgets + State Management
 Demonstrates **StatelessWidget**, **StatefulWidget**, **setState()**, and **Provider** using ChangeNotifier and notifyListeners() for dynamic package dispatch counters.
