@@ -70,7 +70,8 @@ Uses Flutter's animation framework with **AnimationController**, **CurvedAnimati
 
 **Output:**
 
-![Experiment 8 Output](outputs/exp8_output.svg)
+<img width="1536" height="1024" alt="LogiTrack Shipment Tracking Dashboard" src="https://github.com/user-attachments/assets/11ea302e-9882-4313-9a12-84d226e4275f" />
+
 
 ### Experiment 9 — REST API Integration
 Fetches external shipment and consignment records from a public **REST API** using HTTP GET requests. Parses JSON into typed Dart objects and renders records using **FutureBuilder** with loading spinners, error states, and a retry/refresh action.
